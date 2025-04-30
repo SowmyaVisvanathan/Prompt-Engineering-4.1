@@ -106,9 +106,3 @@ Using diverse prompting strategies significantly improves the **quality**, **rel
 - **Role-based**: Offers emotional support effectively.
 - **Multi-modal**: Bridges visual input with tailored advice.
 ---
-
-Would you like this formatted as a formal report or presentation slide outline?
-
-
-
-
